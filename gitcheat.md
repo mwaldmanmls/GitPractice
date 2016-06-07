@@ -1,5 +1,5 @@
 # This is a markdown file
-## *Name*: **Michael Waldman**
+## *Name*: **M.W.**
 ## *Email*: **mwaldmanmls@gmail.com**
 ### this is a practice ~~text.~~
 this is a new change
